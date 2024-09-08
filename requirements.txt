@@ -3,3 +3,9 @@ scikit-learn
 imbalanced-learn
 flask
 joblib
+
+!pip install -U imbalanced-learn
+!pip install imblearn
+!pip install imblearn
+!pip install -c glemaitre imbalanced-learn
+!pip install imblearn==0.0
